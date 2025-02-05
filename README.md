@@ -25,13 +25,13 @@ I'm a passionate **DevSecOps and Cloud Architect** with a strong focus on **cybe
 - **Operating Systems:** Linux (OSS lover)
 
 ---
-
+<!--
 #### 🌟 **Projects & Contributions:**
 - **[Project Name]:** Brief description of a notable project or contribution.
 - **[Project Name]:** Brief description of another project or contribution.
 
 ---
-
+-->
 #### 🎮 **Hobbies & Interests:**
 - **Gaming:** Nintendo JRPGs (Zelda), Square Enix JRPGs (Dragon Quest, Final Fantasy)
 - **Sword and Sorcery:** Dungeons and Dragons, Conan, Fritz Leiber, Michael Moorcock
