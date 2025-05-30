@@ -56,4 +56,3 @@ I'm a passionate **DevSecOps and Cloud Architect** with strong experience in **c
 ---
 
 Let’s build, break, secure, and scale—always with a bit of punk spirit and a love for open source.  
-**Cheers! 🥂**
