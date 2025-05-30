@@ -1,55 +1,49 @@
-<!--
-**javicosvml/javicosvml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✨ Hey there! I'm Javier
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### 👋 Hi there! I'm Javier
-
-I'm a passionate **DevSecOps and Cloud Architect** with a strong focus on **cybersecurity** and **open-source software**. I love to explore and contribute to the world of **DevOps** and **cloud technologies**.
+I'm a passionate **DevSecOps and Cloud Architect** with strong experience in **cybersecurity**, **infrastructure as code**, and **cloud governance**. I specialize in building scalable, secure solutions across **multicloud environments**, blending technical expertise with business-driven thinking.
 
 ---
 
-#### 🛠️ **Skills & Technologies:**
-- **Cybersecurity:** Follower of CNCF Security and Hack the Box
-- **DevOps:** Enthusiast of CNCF, Kubernetes, Docker
-- **Programming Languages:** Python, Bash, C, Java
-- **Operating Systems:** Linux (OSS lover)
+### 🧰 Tech Stack & Tools
 
----
-<!--
-#### 🌟 **Projects & Contributions:**
-- **[Project Name]:** Brief description of a notable project or contribution.
-- **[Project Name]:** Brief description of another project or contribution.
-
----
--->
-#### 🎮 **Hobbies & Interests:**
-- **Gaming:** Nintendo JRPGs (Zelda), Square Enix JRPGs (Dragon Quest, Final Fantasy)
-- **Sword and Sorcery:** Dungeons and Dragons, Conan, Fritz Leiber, Michael Moorcock
-- **Card Games:** Magic the Gathering
-- **Cinema:** Avid film watcher, loves all kinds of movies, and has a deep passion for cinema
+| Category            | Technologies & Tools                                                                         |
+|---------------------|----------------------------------------------------------------------------------------------|
+| **Cloud & IaC**     | AWS (CDK, Lambda, EKS), Terraform, Azure, GCP                                                |
+| **Containers**      | Docker, Kubernetes, Helm                                                                     |
+| **CI/CD & DevOps**  | GitHub Actions, GitLab CI, Jenkins, ArgoCD                                                   |
+| **Security**        | DevSecOps practices, CNCF Security, Hack The Box, OWASP                                      |
+| **Languages**       | Python, Bash, C, Java                                                                         |
+| **Operating Systems** | Linux (open-source enthusiast)                                                              |
 
 ---
 
-#### 🌍 **Lifestyle:**
-- **Travel:** Loves to travel, explore cities, and eat local food
-- **Urban Exploration:** Enjoys walking around cities more than nature
-- **Relaxation:** Likes to spend free time at the beach, relaxing and reading books
+### 🚀 Key Projects & Focus Areas
+
+- **Cloud Governance**: Designed and implemented governance models for multicloud platforms, ensuring compliance and operational control.
+- **Infra Automation**: Built CI/CD pipelines using GitHub Actions and Terraform to automate secure infrastructure provisioning.
+- **Proactive Security**: Embedded DevSecOps practices to identify vulnerabilities early in the development lifecycle.
 
 ---
 
-#### 🎵 **Music Preferences:**
-- **Genres:** Punk, Rock, Metal, Techno (Dark, Minimal, Industrial)
+### 🎮 Hobbies & Interests
+
+| Category           | Details                                                                                        |
+|--------------------|------------------------------------------------------------------------------------------------|
+| **Gaming**         | JRPG fan – Nintendo and Square Enix classics (Zelda, Dragon Quest, Final Fantasy)              |
+| **Fantasy & Lore** | Dungeons and Dragons, Conan, Fritz Leiber, Michael Moorcock                                    |
+| **Card Games**     | Magic: The Gathering player and deck builder                                                    |
+| **Cinema Buff**    | Huge film lover – from cult classics to modern cinema                                          |
+| **Music**          | Punk, Rock, Metal, Techno (especially dark, minimal, industrial vibes)                         |
+| **Urban Explorer** | Loves traveling, walking through cities, and hunting for local food gems                       |
 
 ---
 
-Feel free to connect with me and explore my repositories. Let's collaborate and create something amazing together!
+### 🧩 A Bit of GitHub Fun
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=javicosvml&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javicosvml&layout=compact&theme=radical)
+
+---
+
+Let’s build, break, secure, and scale—always with a bit of punk spirit and a love for open source.  
+**Cheers! 🥂**
