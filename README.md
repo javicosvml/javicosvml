@@ -1,5 +1,15 @@
 ## ✨ Hey there! I'm Javier
 
+![AWS](https://img.shields.io/badge/AWS-CDK-orange?logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/IaC-Terraform-623CE4?logo=terraform)
+![Kubernetes](https://img.shields.io/badge/K8s-Love-blue?logo=kubernetes)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-Secure-blueviolet)
+![Linux](https://img.shields.io/badge/Linux-Enthusiast-yellowgreen?logo=linux)
+![Python](https://img.shields.io/badge/Python-Dev-3670A0?logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/Bash-Script-black?logo=gnu-bash&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?logo=githubactions&logoColor=white)
+
+
 I'm a passionate **DevSecOps and Cloud Architect** with strong experience in **cybersecurity**, **infrastructure as code**, and **cloud governance**. I specialize in building scalable, secure solutions across **multicloud environments**, blending technical expertise with business-driven thinking.
 
 ---
