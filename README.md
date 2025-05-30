@@ -18,7 +18,7 @@ I'm a passionate **DevSecOps and Cloud Architect** with strong experience in **c
 
 | Category            | Technologies & Tools                                                                         |
 |---------------------|----------------------------------------------------------------------------------------------|
-| **Cloud & IaC**     | AWS (CDK, Lambda, EKS), Terraform, Azure, GCP                                                |
+| **Cloud & IaC**     | AWS, Azure, GCP, Terraform                                                |
 | **Containers**      | Docker, Kubernetes, Helm                                                                     |
 | **CI/CD & DevOps**  | GitHub Actions, GitLab CI, Jenkins, ArgoCD                                                   |
 | **Security**        | DevSecOps practices, CNCF Security, Hack The Box, OWASP                                      |
